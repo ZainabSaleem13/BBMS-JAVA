@@ -1,2 +1,2 @@
-# BBMS- Blood Bank Management System
+## BBMS- Blood Bank Management System
 SCD Semester project 
